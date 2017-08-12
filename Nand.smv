@@ -5,4 +5,4 @@ VAR
 	int2 : boolean;
 DEFINE
 	-- ZERO DELAY
-	out := ! (int1 & int2;
+	out := ! (int1 & int2);
