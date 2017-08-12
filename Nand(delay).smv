@@ -1,0 +1,10 @@
+MODULE main
+
+VAR
+	int1 : boolean;
+	int2 : boolean;
+	out: boolean
+DEFINE
+	-- UNIT DELAY
+	init(out) := TRUE;
+	next(out) := !(in1 & in2);
