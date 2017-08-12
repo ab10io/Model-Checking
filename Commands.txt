@@ -1,0 +1,14 @@
+First download the binary for NuSMV and mention it in path variables.
+
+Then in command line:
+NuSMV -int
+> read_model -i name_of_file.smv
+> flatte_hierarchy
+> encode_variables
+> build_model
+> print_reachable_states -v
+
+> picl_state -i
+> simulate -i -k no_of_steps
+
+OR: to read, faltten, encode and build; you can use go.
