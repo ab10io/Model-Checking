@@ -1,0 +1,8 @@
+MODULE main
+
+VAR
+	int1 : boolean;
+	int2 : boolean;
+DEFINE
+	-- ZERO DELAY
+	out := ! (int1 & int2;
