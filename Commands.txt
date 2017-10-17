@@ -11,4 +11,4 @@ NuSMV -int
 > picl_state -i
 > simulate -i -k no_of_steps
 
-OR: to read, faltten, encode and build; you can use go.
+OR: to read, faltten, encode and build; you can use command 'go' (e.g.NuSMV name_of_file.smv go).
