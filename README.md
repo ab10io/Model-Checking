@@ -1,2 +1,2 @@
 # Model-Checking
-This contains in-class exercises for Model Checking course by Prof. B Srivathsan.
+This contains the exercises and assignmets for Model Checking course.
